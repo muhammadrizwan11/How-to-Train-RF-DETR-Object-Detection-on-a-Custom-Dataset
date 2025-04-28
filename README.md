@@ -47,6 +47,6 @@ RF-DETR demonstrates state-of-the-art accuracy while maintaining real-time perfo
 ## 🤝 **Contributing**  
 Feel free to open issues or contribute improvements via pull requests.  
 
-## 📢 **Let's Connect!**  
+## 📢 **Let's Connect!!**  
 If you found this project helpful, give it a ⭐ and connect with me on **[LinkedIn](https://www.linkedin.com/in/datasciecnce/)**.  
 
